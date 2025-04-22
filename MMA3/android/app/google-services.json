@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989822199073",
+    "project_id": "mma-flashcard",
+    "storage_bucket": "mma-flashcard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989822199073:android:4164c0360884d41dbbca60",
+        "android_client_info": {
+          "package_name": "com.mma.flash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8QpuHn7kfoL2kltF8n7K2yBKoSCblHsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
